@@ -20,7 +20,7 @@ Achieved strong predictive performance across multiple classification models
 Visualized data patterns and feature importance to enhance interpretability
 
 🔗 View Notebook
--[Run in Google Colab](https://colab.research.google.com/github/vschris30/Heart-Disease-Risk-Analysis/blob/main/Heart-Disease-Risk-Analysis.ipynb)
+-[Run in Google Colab]([https://colab.research.google.com/github/vschris30/Heart-Disease-Risk-Analysis/blob/main/Heart-Disease-Risk-Analysis.ipynb])
 ✍️ Author
 - [V S Chris](https://www.linkedin.com/in/vschris/)
 -Mechanical Engineer with interests in Data Science & Healthcare Applications
